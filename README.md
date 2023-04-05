@@ -1,5 +1,5 @@
 # 3-Axis-Gimbal
-This project is about 3 axis gimbal made using esp32 and MPU6050. In which we take __the attitude__ from MPU6050 and converting it into __PWM__ signals.
+This project is about 3 axis gimbal made using esp32 and MPU6050. In which we take the Orientation from MPU6050 and converting it into __PWM__ signals.
 
 # Circuit Diagram
 __Note:__ Change GPIO pins connection according to gimbal_code.ino
